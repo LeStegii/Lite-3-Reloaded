@@ -1,0 +1,46 @@
+### 1.0
+
+**Changelog:**
+  - Added AutoPackager
+  - Added BdLib
+  - Added BetterFPS
+  - Added Chameleon
+  - Added CodeChickenLib
+  - Added CoFHCore
+  - Added Custom Main Menu
+  - Added Extra Utilities
+  - Added FTB Utilities
+  - Added FTB Library
+  - Added HWYLA
+  - Added Industrial Foregoing
+  - Added Industrial Meat
+  - Added InventoryTweaks
+  - Added JEI Integration
+  - Added JER Ore Integration
+  - Added Just Enough Items (JEI)
+  - Added Just Enough Pattern Banners
+  - Added Just Enough Resources
+  - Added MoarSigns
+  - Added Modular Item Frame
+  - Added More Overlays
+  - Added Nature's Compass
+  - Added Morpheus
+  - Added Player Plates (Forge)
+  - Added Pressure Pipes
+  - Added Progressive Automation
+  - Added Redstone Arsenal
+  - Added Resource Loader
+  - Added Shadowfact's Forgelin
+  - Added SimpleHarvest
+  - Added Simply Jetpacks 2
+  - Added Solar Flux
+  - Added Storage Drawers
+  - Added Storage Drawers Unlimited
+  - Added Tesla Core Lib
+  - Added Thermal Cultivation
+  - Added Thermal Dynamics
+  - Added Thermal Expansion
+  - Added Thermal Foundation
+  - Added Thermal Innovation
+  - Added Waila Harvestability
+  - Added YABBA
